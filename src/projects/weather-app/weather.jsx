@@ -2,7 +2,7 @@ import { Component } from "react";
 
 class Weather extends Component {
   render() {
-    return <h1>Weather Component</h1>;
+    return <h1>Weather</h1>;
   }
 }
 
