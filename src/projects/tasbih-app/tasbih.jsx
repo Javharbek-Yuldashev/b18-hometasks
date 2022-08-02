@@ -27,7 +27,7 @@ class Tasbih extends Component {
   render() {
     return (
       <div className="container">
-        <h1>TASBIH COUNTER $$$</h1>
+        <h1>TASBIH COUNTER</h1>
         <div className="counter" onClick={this.handleAdd}>
           <span className="fs-1">{this.state.count}</span>
         </div>
